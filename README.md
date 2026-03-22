@@ -12,7 +12,6 @@ ARIMA/SARIMA XGBoost, and CUSUM were used for anomaly detection to determine if 
 ## Results
 Against initial expectations, crime levels for the time periods surrounding the holidays didn't show a consistent, significant increase compared to the rest of the year.
 
-## Deliverable
 [View the report](HolidayCrimeAnalysis.pdf)
 
 ## Notes
