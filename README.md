@@ -13,13 +13,13 @@ ARIMA/SARIMA XGBoost, and CUSUM were used for anomaly detection to determine if 
 Against initial expectations, crime levels for the time periods surrounding the holidays didn't show a consistent, significant increase compared to the rest of the year.
 
 ## Deliverable
-[Link or embedded PDF of final report]
+[View the report](HolidayCrimeAnalysis.pdf)
 
 ## Notes
 This project was completed as part of a graduate program in a team setting.  
 Only the final report is shared here, and teammate names have been omitted for privacy.  
 
 ## My Contributions
-- Built data preprocessing pipeline in Python  
+- Participated in problem definition and methodology planning
 - Performed CUSUM and K-means analysis and evaluation  
-- Contributed to final analysis and report development  
+- Contributed to conclusion determination and report development  
